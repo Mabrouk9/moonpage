@@ -1,0 +1,59 @@
+<!Doctype html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+  
+      <title> Moon</title>
+      <style>
+        div.mycontainer{
+          width:100%;
+          overflow: auto;
+        }
+       div.mycontainer div {
+        width: 50%;
+        float: left;
+
+        }
+      </style>
+   </head>  
+   <body>
+     <h1 style="text-align:center; color:#2F4F4F;"> MOON</h1>
+      <h2 style="color:gray ">In geophysical terms,
+        <mark> the Moon is a planetary-mass object or satellite planet.</mark> 
+      </h2>
+     <hr>
+     <div class="mycontainer">
+      <div style="background-color: #2F4F4F;">
+       <p>The Moon is Earth's only natural satellite and the fifth largest satellite in the Solar System.</p>
+        <p> The Moon's presence helps stabilize our planet's wobble and moderate our climate. The Moon's distance from Earth
+       </p>
+     </div>
+     <div>
+     <img src="moon_generated.png" alt="moon Image" style="width:50%; height:50%;">
+     </div>
+    </div>
+    <main style="font-family: cursive;"><b>Moon Composition & Structure</b></main>
+     <h2>Like Earth, the Moon consists of three main layers:</h2>
+     <ol>
+      <li>crust</li>
+      <li>mantle</li>
+      <li>core</li>
+     </ol>
+     <div  class="mycontainer">
+      <div style="background-color: beige;">
+          <pre>
+            Billions of years ago, the Moon was a molten world.
+            As it solidified, the heaviest materials (metals like iron) sank down into the Moon’s center,
+            and the lighter materials (lower density rocks) rose towards the surface. 
+            The result is a structure a bit like a chocolate-dipped cherry – 
+            solid core, mostly solid/partly liquid mantle, and thin outer crust. 
+             </pre>
+        </div>
+      <div>
+          <img src="moon_generate2.png" alt="Moon Composition image" style="width:30%; height:30%;">
+        </div>
+        
+     </div>
+  <footer style="font-size: 20px;">figure out more<br> <mark>GO</mark> <a href="https://science.nasa.gov/moon/composition/"><img src="moon_image3.jpg" alt="moon image3" style=" width:10%; height:10%"></a> </footer>
+     
+   </body>
